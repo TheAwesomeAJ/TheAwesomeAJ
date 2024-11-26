@@ -31,9 +31,9 @@ I’m thrilled to have you here. Let me take you through a little journey of my 
 
 - 📚 **Portfolio Website:**
   - **Description:** An online portfolio to showcase my projects, skills, and background. It serves as a personal brand statement and a place to connect with potential employers and collaborators.
-  - **Technologies Used:** HTML, CSS, JavaScript, Tailwind CSS (in progress)
+  - **Technologies Used:** Devart.bio (in progress)
   - **Challenges and Solutions:** Implementing a clean and user-friendly design, ensuring all information is easily accessible. Continually updating the content as I complete new projects.
-  - **Link:** [My Portfolio](https://yourportfolio.com)
+  - **Link:** [My Portfolio](https://devart.bio/theawesomeaj)
 
 ### Future Goals
 - 🌱 **Continuous Learning:** I’m committed to lifelong learning in web development. Currently, I’m diving deeper into JavaScript frameworks like React and Vue.js.
