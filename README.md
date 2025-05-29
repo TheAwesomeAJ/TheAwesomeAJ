@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm TheAwesomeAJ
 
 Welcome to my GitHub! I'm a developer passionate about building clean, thoughtful software—especially tools that make life easier for others. I work across full-stack web development, with a focus on modern JavaScript/TypeScript, frameworks like **Next.js**, **React Native**, and powerful backend tools like **PayloadCMS**, **Firebase**, and **GraphQL**.
 
@@ -21,7 +21,7 @@ Welcome to my GitHub! I'm a developer passionate about building clean, thoughtfu
   [🌐 Visit soon | 💻 Built with Next.js + Once UI + PayloadCMS]
 
 - **Veridion Studios Ecosystem:**  
-  A suite of interconnected platforms—Academy, Chronicle, Kitchen, and more—focused on truth-seeking and knowledge-sharing through storytelling and software.
+  A suite of interconnected platforms—Academy, Chronicle, Kitchen, and more—focused on knowledge-sharing and learning through storytelling and software.
 
 ---
 
