@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm TheAwesomeAJ
 
-Welcome to my GitHub! I'm a developer passionate about building clean, thoughtful software—especially tools that make life easier for others. I work across full-stack web development, with a focus on modern JavaScript/TypeScript, frameworks like **Next.js**, **React Native**, and powerful backend tools like **PayloadCMS**, **Firebase**, and **GraphQL**.
+Welcome to my GitHub! I'm a developer passionate about building clean, thoughtful software—especially tools that make life easier for others. I work across full-stack web development, with a focus on modern JavaScript/TypeScript, frameworks like **Next.js**, **TailwindCSS**, and other powerful tools like **Unity**, **VS Code**, and **GitHub**.
 
 ---
 
@@ -8,31 +8,28 @@ Welcome to my GitHub! I'm a developer passionate about building clean, thoughtfu
 
 - **Languages:** TypeScript, JavaScript, Python
 - **Frontend:** React, Next.js (App Router), Tailwind CSS, Shadcn/UI, FontAwesome
-- **Backend:** Node.js, Firebase, PayloadCMS, PostgreSQL, GraphQL
 - **Mobile:** React Native
-- **Tools & Services:** Vercel, Auth0, GitHub Actions, Supabase, Hugging Face
+- **Tools & Services:** Vercel, Clerk, GitHub Actions, Supabase, Hugging Face, 
 
 ---
 
 ## 🚀 Current Projects
 
-- **The Veridion Book Hunt (TVBH):**  
-  A beautifully designed, interactive web platform where readers explore books, solve mysteries, and earn XP through learning and discovery.  
-  [🌐 Visit soon | 💻 Built with Next.js + Once UI + PayloadCMS]
+- **The Veridion Library — Home:**  
+  Primary site for The Veridion Library (landing pages, docs, and project showcases). TypeScript-first codebase focused on a fast, accessible web experience.
 
-- **Veridion Studios Ecosystem:**  
-  A suite of interconnected platforms—Academy, Chronicle, Kitchen, and more—focused on knowledge-sharing and learning through storytelling and software.
+- **PlotTwist:**  
+  An interactive storytelling platform and editor for serialized content and narrative experiments. Heavy TypeScript usage with a focus on modular UI and content tooling.
 
----
-
-## 🌱 Always Learning
-
-I’m constantly experimenting with:
-
-- AI integrations using lightweight LLMs (like **Phi-2** or **Gemma 2B**)
-- Cross-platform app development with React Native
-- Building fast, modern web apps with full animation and mobile responsiveness
+- **Veridion Studios — Home:**  
+  The main hub for Veridion Studios — company pages, ecosystem overviews, and demos. TypeScript-based site optimized for clarity and maintainability.
 
 ---
+
+## My HackClub Stats
+
+I'm a member of HackClub, and here are my stats!
+
+[![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=6017&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=github_dark)](https://hackatime.hackclub.com/users/6017)
 
 Thanks for stopping by!
