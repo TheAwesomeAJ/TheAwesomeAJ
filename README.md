@@ -1,3 +1,5 @@
+*Don't forget to check out my organization, [Veridion Studios](https://github.com/Veridion-Studios)*
+
 # Hi there! 👋 I'm TheAwesomeAJ
 
 Welcome to my GitHub! I'm a developer passionate about building clean, thoughtful software—especially tools that make life easier for others. I work across full-stack web development, with a focus on modern JavaScript/TypeScript, frameworks like **Next.js**, **TailwindCSS**, and other powerful tools like **Unity**, **VS Code**, and **GitHub**.
