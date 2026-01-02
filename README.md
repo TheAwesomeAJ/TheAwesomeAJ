@@ -17,21 +17,11 @@ Welcome to my GitHub! I'm a developer passionate about building clean, thoughtfu
 
 ## 🚀 Current Projects
 
-- **Moonshot - Hack Club (click picture for more details!)**
-<div align="center">
-  <a href="https://moonshot.hack.club/123" target="_blank">
-    <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/35ad2be8c916670f3e1ac63c1df04d76a4b337d1_moonshot.png" 
-         alt="This project is part of Moonshot, a 4-day hackathon in Florida visiting Kennedy Space Center and Universal Studios!" 
-         style="width: 100%;">
-  </a>
-</div>
-  I'm making projects for Moonshot, a 4-day hackathon in Florida visiting Kennedy Space Center and Universal Studios!
+- **Tessera (Terminal Password Manager)**
+  This is a project, built for [Hackvault](https://hackvault.hackclub.com). It's built on Python, and more details on it can be found [here].(https://github.com/TheAwesomeAJ/Tessera)
 
-- **The Veridion Library — Home:**  
-  Primary site for The Veridion Library (landing pages, docs, and project showcases). TypeScript-first codebase focused on a fast, accessible web experience.
-
-- **PlotTwist:**  
-  An interactive storytelling platform and editor for serialized content and narrative experiments. Heavy TypeScript usage with a focus on modular UI and content tooling.
+- **The Veridion Book Hunt**
+  A community book scavenger hunt platform
 
 - **Veridion Studios — Home:**  
   The main hub for Veridion Studios — company pages, ecosystem overviews, and demos. TypeScript-based site optimized for clarity and maintainability.
