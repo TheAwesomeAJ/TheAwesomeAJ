@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm a developer passionate about building clean, thoughtfu
 ## 🚀 Current Projects
 
 - **Tessera (Terminal Password Manager)**
-  This is a project, built for [Hackvault](https://hackvault.hackclub.com). It's built on Python, and more details on it can be found [here].(https://github.com/TheAwesomeAJ/Tessera)
+  This is a project, built for [Hackvault](https://hackvault.hackclub.com). It's built on Python, and more details on it can be found [here](https://github.com/TheAwesomeAJ/Tessera)
 
 - **The Veridion Book Hunt**
   A community book scavenger hunt platform
